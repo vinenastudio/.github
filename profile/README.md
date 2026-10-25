@@ -16,4 +16,4 @@ We build products people pay for, and help founders do the same.
 
 ### Work with us
 
-We have worked with Paloma (YC S25) and Plasticity. [Book an intro call](https://cal.com/vinena/vinena-intro) or visit [vinena.studio](https://vinena.studio).
+We have worked with Paloma (YC S25) and Plasticity. Email your inquiry to [hi@vinena.studio](mailto:hi@vinena.studio) or visit [vinena.studio](https://vinena.studio).
