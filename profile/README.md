@@ -5,15 +5,15 @@
 
 <br><br>
 
-Design and engineering studio. We build our own products and work with founders.
+We build products people pay for, and help founders do the same.
 
 ### Products
 
 - [Agent Caffeine](https://caffeinagent.com): keeps your Mac awake while AI agents work
-- [knobs](https://knobs.dev): devtools for design engineers
-- [vectoys](https://vectoys.com): SVG 3D device mockups and toys
-- [Angaria](https://angaria.app): Mac app for Turkish e-invoicing
+- [Knobs](https://knobs.dev): devtools for design engineers
+- [Vectoys](https://vectoys.com): SVG 3D device mockups and toys
+- [Angaria](https://angaria.app): Mac app and MCP for Turkish e-invoicing
 
 ### Work with us
 
-We have worked with Paloma (YC S25) and Plasticity. [Book an intro call](https://cal.com/mertbuilds/vinena-intro) or visit [vinena.studio](https://vinena.studio).
+We have worked with Paloma (YC S25) and Plasticity. [Book an intro call](https://cal.com/vinena/vinena-intro) or visit [vinena.studio](https://vinena.studio).
