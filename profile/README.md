@@ -5,15 +5,17 @@
 
 <br><br>
 
-We build products people pay for, and help founders do the same.
+We build apps and tools for modern builders.
 
 ### Products
 
+- [Snug](https://snug.so): the clipboard manager you and your agent can use, safely
+- [Wax](https://waxmac.com): block anything on your iPhone without erasing it
 - [Agent Caffeine](https://caffeinagent.com): keeps your Mac awake while AI agents work
 - [Knobs](https://knobs.dev): devtools for design engineers
 - [Vectoys](https://vectoys.com): SVG 3D device mockups and toys
 - [Angaria](https://angaria.app): Mac app and MCP for Turkish e-invoicing
 
-### Work with us
+### Contact
 
-We have worked with Paloma (YC S25) and Plasticity. Email your inquiry to [hi@vinena.studio](mailto:hi@vinena.studio) or visit [vinena.studio](https://vinena.studio).
+[hi@vinena.studio](mailto:hi@vinena.studio) · [vinena.studio](https://vinena.studio)
